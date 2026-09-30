@@ -1,0 +1,15 @@
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# Plot output from Rscript
+Rplots.pdf
+
+# OS and editor files
+.DS_Store
+~$*
